@@ -17,5 +17,5 @@ python py.shuf foo.txt
 python py.shuf -n 5 < foo.txt
 
 # returns shuf -n 5 -i 5 foo.txt
-python3 shuf.py -n 5 -i 1-5 < test1.txt
+python3 shuf.py -n 5 -i 1-5 < foo.txt
 ```
