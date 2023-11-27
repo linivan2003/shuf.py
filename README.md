@@ -1,13 +1,13 @@
 # shuf.py
 This Python script pyshuf.py replicates the functionality of the shuf command in Bash. It allows users to shuffle lines or generate random permutations from input files or specified lists.
 
-## features
+## Features
 Shuffle lines in a file or input list.
 Generate random permutations of numbers within a range.
 Specify the number of lines or random numbers to output.
 Easily customizable through command-line arguments.
 
-## usage
+## Usage
 ```bash
 
 # returns shuf foo.txt
